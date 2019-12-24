@@ -1,0 +1,10 @@
+/*
+    Stages of containerization
+
+        Dockerfiles get built
+        Docker images get shipped
+        Docker containers are run
+
+        
+    
+*/
